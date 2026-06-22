@@ -1,0 +1,12 @@
+{
+    "matricula": "2026AB12",
+    "nome": "Genesio Fonseca",
+    "idade": 17,
+    "curso": "Desenvolvimento de Sistemas",
+    "notas": [8.5, 9.0, 7.5],
+    "bolsista": true,
+    "endereco": {
+        "cidade": "Curitiba",
+        "estado": "Paraná"
+    }
+}
