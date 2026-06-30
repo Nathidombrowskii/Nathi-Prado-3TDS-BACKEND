@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "autor": "Yuri",
+        "texto": "Terminei meu primeiro projeto em js. 🛸",
+        "publicado": true,
+        "data": "30/06/2026",
+        "metricas": {
+            "curtidas": 42,
+            "compartilhamentos": 8,
+            "visualizacoes": 310
+        }
+    }
+]
