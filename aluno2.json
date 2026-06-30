@@ -1,0 +1,12 @@
+{
+    "matricula": "2026CD34",
+    "nome": "joao gabriel",
+    "idade": 18,
+    "curso": "engenharia da producao",
+    "notas": [7.5, 8.0, 6.0],
+    "bolsista": false,
+    "endereco": {
+        "cidade": "Curitiba",
+        "estado": "Paraná"
+    }
+}
