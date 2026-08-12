@@ -26,7 +26,8 @@ let time = new timeFutebol(
 "Neymar",
 "Renato Gaúcho",
 2,
-3
+3,
+"Santos"
 );
 
 time.mostrarTime();
